@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<question type="shortanswer">
+  <name>
+    <text type="text">Et moi je t'en pose des questions?</text>
+  </name>
+  <answer fraction="100">
+    <text>Ben... un peu</text>
+    <feedback><text>Correct!</text></feedback>
+  </answer>
+ 
+  <question type="shortanswer">
+  <answer fraction="100">
+    <text>Ouaip</text>
+    <feedback><text>Correct!</text></feedback>
+  </answer>
+  <answer fraction="0">
+    <text>Non ... ?</text>
+    <feedback><text>FAUX!</text></feedback>
+  </answer>
