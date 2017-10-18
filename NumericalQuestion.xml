@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<question type="numerical">
+  <name>
+    <text>Demo question numérique</text>
+  </name>
+	<questiontext format="html">
+		<text>Voici un énoncé demandant la reponse numérique 10</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+  <answer fraction="100">
+    <text>10</text>
+    <feedback><text>Bonne réponse !</text></feedback>
+  </answer>
+</question>
