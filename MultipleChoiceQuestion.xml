@@ -14,7 +14,7 @@
 			<text>Bravo !</text>
 		</feedback>
 	</answer>
-	<answer fraction="-100">
+	<answer fraction="0">
 		<text>Sacrément mauvaise cette réponse morray</text>
 		<feedback>
 			<text>Ooops!</text>
