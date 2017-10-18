@@ -26,6 +26,12 @@
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
+	<answer fraction="0">
+		<text>Encore une autre mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>
